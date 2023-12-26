@@ -1,6 +1,6 @@
 # Global-Super-Store-Dashboard
 
-![alt text](https://github.com/nimishaSahu895/Power-BI-Project/blob/main/globalStore.jpg)
+![global store png](https://github.com/nimishaSahu895/Power-BI-Project/assets/152599685/716179c6-49d9-439a-a69d-68450c4e06ab)
 
 ## Problem Statement
 
