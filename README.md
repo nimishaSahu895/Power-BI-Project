@@ -1,5 +1,7 @@
 # Global-Super-Store-Dashboard
 
+![alt text](https://github.com/nimishaSahu895/Power-BI-Project/blob/main/globalStore.jpg)
+
 ## Problem Statement
 
 This dashboard helps the Global Super store understand their Market better. It helps the store understand the overall sales performance of the global superstore over the years, Analyze customer behavior to identify key customer segments, preferences, and trends, they get to know their improvement area, & thus they can improve their startegies by identifying these area. 
