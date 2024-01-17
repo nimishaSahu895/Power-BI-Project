@@ -12,7 +12,7 @@ I engaged in Data Analysis of a global superstore dataset, analyzed its performa
 - Step 2 : Employed dynamic features to enhance user interaction, enabling the adjustment of the time frame for a more detailed analysis.
 - Step 3 : Developed a column chart that effectively communicates the quantities of orders, providing a clear visual representation of order priorities.
 - Step 4 : Used color coding or other visual elements to make the chart impactful and easily understandable, facilitating quick decision-making.
-- Step 5 : Employed a scatter plot to visually represent the relationship between sales and quantity sold for individual products. 
+- Step 5 : Employed a scatter plot to visually represent the relationship between sales and quantity sold for individual Top 25 products. 
 - Step 6 : This graphical representation helps identify patterns, outliers, or correlations, aiding in strategic decision-making related to product performance.
 - Step 7 : Designed a bar chart to categorize and display sales data, allowing stakeholders to compare and analyze performance across different product categories. 
 - Step 8 : Ensured clarity and simplicity in the presentation to enable quick insights into which categories are contributing most significantly to overall sales. 
